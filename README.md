@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @expecto347
 - 👀 I’m interested in Matlab,Python and so on
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sunhaozhe347@gmail.com
 
